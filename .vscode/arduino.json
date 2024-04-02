@@ -1,0 +1,4 @@
+{
+    "sketch": "codes\\relay_controller\\relay_controller.ino",
+    "board": "arduino:avr:uno"
+}
